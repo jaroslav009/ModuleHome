@@ -1,0 +1,24 @@
+@font-face {
+  font-family: 'NeoSansPro-Ultra';
+  src: url("../fonts/NeoSans/NeoSansPro-Ultra.ttf"); }
+
+@font-face {
+  font-family: 'NeoSansPro-Regular';
+  src: url("../fonts/NeoSans/NeoSansPro-Regular.ttf"); }
+
+@font-face {
+  font-family: 'NeoSansPro-Light';
+  src: url("../fonts/NeoSans/NeoSansPro-Light.ttf"); }
+
+@font-face {
+  font-family: 'NeoSansPro-Bold';
+  src: url("../fonts/NeoSans/NeoSansPro-Bold.ttf"); }
+
+@font-face {
+  font-family: 'FontAwesome';
+  src: url("../fonts/FontAwesome/fontawesome-webfont.ttf");
+  src: url("../fonts/FontAwesome/FontAwesome.otf"); }
+
+@font-face {
+  font-family: 'NeoSansCyr-Regular';
+  src: url("../fonts/NeoSans/NeoSansCyr-Regular.ttf"); }
